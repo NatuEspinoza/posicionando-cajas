@@ -1,0 +1,44 @@
+.caja1 {
+  width: 300px;
+  height: 300px;
+  background-color: #ff0000;
+}
+
+.cajaMorada {
+  width: 150px;
+  height: 150px;
+  background-color: #780090;
+  position: absolute;
+  top: 83px;
+  left: 83px;
+}
+
+.cajaAmarilla {
+  width: 75px;
+  height: 75px;
+  background-color: #faff00;
+  position: absolute;
+}
+
+.caja2 {
+  width: 300px;
+  height: 300px;
+  background-color: #0500ff;
+  margin-top: 15px;
+}
+
+.cajaNegra {
+  width: 75px;
+  height: 75px;
+  background-color: black;
+  position: absolute;
+}
+
+.cajaVerde {
+  width: 150px;
+  height: 150px;
+  background-color: #018803;
+  position: relative;
+  top: 76px;
+  left: 76px;
+}
